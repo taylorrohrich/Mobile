@@ -1,0 +1,29 @@
+Taylor Rohrich
+----
+Taylor Rohrich
+----
+Slides for this week are at: https://docs.google.com/presentation/d/1UtMBmiHEeRpW2uCkqKb6OeG9FP2BTh4Fkhko-bajzo0/edit?usp=sharing
+----
+Week 0 Project:
+
+Part 1:
+    Think of an mobile application that could be useful / could solve a problem for a new college student at UVA.  The goal of this exercise is to start thinking about the things that need to go into an app.
+    Create a very rough wireframe of what the app interface would look like: you can either sketch this on paper or use a wireframe website (I recommend Marvel).
+    It doesn't have to be super detailed, just enough to give an idea of how a user would interface with the app. After you have a 
+    rough sketch, think of what tools you would need to build your application, and prepare a brief presentation on your idea in Google Slides. Here are some things to think about:
+
+    1. What is the purpose of the website?
+    2. Do I need to grab data from anywhere?
+    3. Where would I want to store data?
+    4. Do I want to focus on either Android or iOS users?
+    5. Specific programming language(s) to use? (don't worry if you don't know any for this one)
+    6. Would I want users to sign in, and how would I handle user authentication?
+
+    The list above is just some things to think about-- you don't necessarily need to include every one, and are not limited to the list.
+    Obviously, some of these topics you may not know a lot about, as we have only had about an hour of class time! Not to worry, we just
+    want to see that you have given a couple topics some thought (google is certainly your friend here!)
+
+What to submit:
+    (working) link to a google slides filled in on this Google Sheets: https://docs.google.com/spreadsheets/d/1xjOy9KrdCikur-DwEUVJuv2IvDiux-zs8QAP71TdaLk/edit?usp=sharing
+
+

@@ -1,0 +1,13 @@
+Taylor Rohrich
+----
+Slides for this week are at: https://docs.google.com/presentation/d/1hqV5H5STDa57vXjyJCDhz63ckNnIVsb2Qad65MY5Y_I/edit?usp=sharing
+----
+Week 2 Project:
+For this week, we will just be doing a bunch of small exercises to practice some of the JavaScript we learned.
+Feel free to work in groups of two or three!
+
+The files to be completed, in order of increasing difficulty:
+1. sumArray.js,
+2. createPerson.js
+3. fizzbuzz.js
+4. convertObjects.js
