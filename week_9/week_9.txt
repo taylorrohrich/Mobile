@@ -1,0 +1,6 @@
+Taylor Rohrich
+----
+Slides for this week are at: https://docs.google.com/presentation/d/1-gA22iFSF2cKQXYF8BsXEqFLUv6CZqGYiz-YSrR9pnE/edit?usp=sharing
+----
+Week 6 Project:
+Modify the provided React Native app to store the images in firebase.

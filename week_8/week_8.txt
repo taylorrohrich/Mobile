@@ -1,0 +1,8 @@
+Taylor Rohrich
+----
+Slides for this week are at: https://docs.google.com/presentation/d/1ztQUs7-aiJKEKFrGKS5o5MP0fYcdmHuvLHIHlRUfat8/edit?usp=sharing
+----
+Week 5 Project:
+
+Modify your joke app from previous weeks to now contain multiple screens: a splash screen and then a main page that contains the jokes.
+Then, use a design library of your choice to make your app look better!

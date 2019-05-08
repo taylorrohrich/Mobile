@@ -43,13 +43,14 @@ This is where the fun begins! We will start to make web applications in React, g
 Now that we are familiar with React, we will now learn about React Native, which allows us to create mobile applications using the React
 Framework
 
-## Week 5: Group Project
-
-You now have a good grasp on the basics and how to grab data--lets put those skills to work on a project that you and a group decide on!
 
 ## Week 6: API Requests
 
 It would be pretty neat if our apps could grab data from somewhere like Instagram or Google Maps. This week we will learn how to make api requests within our app to grab data. We’ll go over how to make your code “wait” while it’s pulling from these resources and how to do so using HTTP requests, which make up the bulk of how computers talk to each other over the Internet.
+
+## Week 5: Group Project
+
+You now have a good grasp on the basics and how to grab data--lets put those skills to work on a project that you and a group decide on!
 
 ## Week 7: Speaker (TBD)
 

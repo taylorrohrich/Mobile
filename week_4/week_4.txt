@@ -1,0 +1,12 @@
+Taylor Rohrich
+----
+Slides for this week are at: https://docs.google.com/presentation/d/1Rpo-5jjR3P7lA7IVfa_zmsdPER4a0EMnnnysQew5ZV4/edit?usp=sharing
+----
+Snacks used this week:
+https://snack.expo.io/@trr2as/week_4
+----
+Week 4 Project:
+
+Create a small React Native Expo app that tells jokes. When you first see the screen, the setup to a joke is displayed (i.e "Why
+did the chicken cross the road?"). Below the setup is a button--when the button is pressed the setup disappears and the punchline to the
+joke displays ("To get to the other side")

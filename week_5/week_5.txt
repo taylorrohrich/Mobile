@@ -1,0 +1,10 @@
+Taylor Rohrich
+----
+Slides for this week are at: https://docs.google.com/presentation/d/11p68jv2yUKQaBEaMoyZw50cMpiy1fm5s25EeG2hNIyw/edit?usp=sharing
+----
+Snacks used this week:
+https://snack.expo.io/@trr2as/week_5
+----
+Week 5 Project:
+
+Extend upon week 4's project by hitting the joke api: "https://official-joke-api.appspot.com/jokes/random" instead of hard-coding jokes.
