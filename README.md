@@ -24,7 +24,7 @@ Participants are expected to attend both meetings each week. If more than four a
 
 ## Major Projects
 
-# Project 1 (Workshop): Mobile App thinking and ideation
+### Project 1 (Workshop): Mobile App thinking and ideation
 
 Think of an mobile application that could be useful / could solve a problem for a new college student at UVA. The goal of this exercise is to start thinking about the things that need to go into an app.
 Create a very rough wireframe of what the app interface would look like: you can either sketch this on paper or use a wireframe website (I recommend Marvel).
@@ -44,12 +44,12 @@ It doesn't have to be super detailed, just enough to give an idea of how a user 
 What to submit:
 (working) link to a google slides filled in on this Google Sheets: https://docs.google.com/spreadsheets/d/1xjOy9KrdCikur-DwEUVJuv2IvDiux-zs8QAP71TdaLk/edit?usp=sharing
 
-# Project 2 (Mid Semester): Mobile app with API Functionality
+### Project 2 (Mid Semester): Mobile app with API Functionality
 
 This project will be a bit more open-ended: find some neat API on the internet, grab some data from it via fetch,
 and display it in a React Native app in a cool way! If you have time, try to practice using multiple React components: for example, make the fetch api call in 'App.js' and pass it down to be displayed to a child component. For a bonus challenge, you can try to make the api call based off of user input.
 
-# Project 3 (End of Semester): Full stack Mobile App Deployed with Expo
+### Project 3 (End of Semester): Full stack Mobile App Deployed with Expo
 
 As we reach the end of Mobile, we will be able to make React-Native apps, hit API endpoints, grab data from the backend, and finally deploy the projects with expo that can be viewed with the expo app! Using all these skills,
 we will come full circle by trying to make our initial app ideas during Project 1 a reality. Given that Project 1
