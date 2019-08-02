@@ -38,7 +38,7 @@ It doesn't have to be super detailed, just enough to give an idea of how a user 
     6. Would I want users to sign in, and how would I handle user authentication?
 
 The list above is just some things to think about-- you don't necessarily need to include every one, and are not limited to the list.
-Obviously, some of these topics you may not know a lot about, as we have only had about an hour of class time! Notto worry, we just want to see that you have given a couple topics some thought (google is certainly your friend here!)
+Obviously, some of these topics you may not know a lot about, as we have only had about an hour of class time! Not to worry, we just want to see that you have given a couple topics some thought (google is certainly your friend here!)
 
 What to submit:
 (working) link to a google slides filled in on this Google Sheets: https://docs.google.com/spreadsheets/d/1xjOy9KrdCikur-DwEUVJuv2IvDiux-zs8QAP71TdaLk/edit?usp=sharing
