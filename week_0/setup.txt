@@ -7,7 +7,7 @@ Mac
 3. Check that you have git by typing "git" in Terminal
 ----
 Windows
-1. Install babun or git bash as a terminal (needed to use git)
+1. Install git bash as a terminal (needed to use git)
 2. Download node via the installer: https://nodejs.org/en/download/
 3. Open your downloaded terminal and check that you h ave git by typing "git"
 ----
