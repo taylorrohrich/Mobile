@@ -14,7 +14,7 @@ Class slides can be found in the following Google Drive folder: https://drive.go
 
 We will meet regularly on
 
-- TBD
+- Sunday 1-2:45pm
 
 These class times will be devoted to some introductory learning, pair programming to reinforce concepts, time to work on personal projects, and larger community events (potentially including some speakers from Charlottesville software engineers!).
 
