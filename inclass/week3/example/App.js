@@ -23,37 +23,37 @@
 //     );
 //   }
 // }
-// import React from "react";
-// import { StyleSheet, Text, View, TouchableOpacity } from "react-native";
+import React from "react";
+import { StyleSheet, Text, View, TouchableOpacity } from "react-native";
 
-// export default class App extends React.Component {
-//   state = {
-//     counter: 0
-//   };
+export default class App extends React.Component {
+  state = {
+    counter: 0
+  };
 
-//   incrementCounter = () => {
-//     let newCounter = this.state.counter + 1;
-//     this.setState({ counter: newCounter });
-//   };
+  incrementCounter = () => {
+    let newCounter = this.state.counter + 1;
+    this.setState({ counter: newCounter });
+  };
 
-//   render() {
-//     return (
-//       <View
-//         style={{
-//           flex: 1,
-//           flexDirection: "column",
-//           justifyContent: "center",
-//           alignItems: "center"
-//         }}
-//       >
-//         <Text>{this.state.counter}</Text>
-//         <TouchableOpacity onPress={this.incrementCounter}>
-//           <Text>Click me!</Text>
-//         </TouchableOpacity>
-//       </View>
-//     );
-//   }
-// }
+  render() {
+    return (
+      <View
+        style={{
+          flex: 1,
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center"
+        }}
+      >
+        <Text>{this.state.counter}</Text>
+        <TouchableOpacity onPress={this.incrementCounter}>
+          <Text>Click me!</Text>
+        </TouchableOpacity>
+      </View>
+    );
+  }
+}
 
 import React from "react";
 import { StyleSheet, Text, View, TouchableOpacity } from "react-native";
